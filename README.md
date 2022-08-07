@@ -1,2 +1,7 @@
 # GoEasy
-Make Golang development easier. GoEasy is so easy.
+GoEasy is so easy. Make Golang development easier.
+
+## Code Structure
+GoEasy
+    |- utils
+        |- tree
